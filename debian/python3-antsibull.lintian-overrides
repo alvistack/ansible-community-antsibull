@@ -1,0 +1,5 @@
+python3-antsibull: copyright-without-copyright-notice
+python3-antsibull: initial-upload-closes-no-bugs
+python3-antsibull: no-manual-page
+python3-antsibull: script-not-executable
+python3-antsibull: zero-byte-file-in-doc-directory
