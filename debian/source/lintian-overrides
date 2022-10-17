@@ -1,0 +1,4 @@
+python-antsibull source: file-without-copyright-information
+python-antsibull source: no-debian-changes
+python-antsibull source: source-contains-prebuilt-windows-binary
+python-antsibull source: source-package-encodes-python-version
